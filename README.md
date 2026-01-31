@@ -6,7 +6,7 @@ The main goal of this project was to build a clean and scalable dashboard archit
 
 ---
 
-## Core Features
+## 🔑 Core Features
 
 ### Authentication & Security
 - JWT-based authentication (Access & Refresh tokens).
@@ -36,7 +36,7 @@ The main goal of this project was to build a clean and scalable dashboard archit
 
 ---
 
-##  Tech Stack
+## ⚙️ Tech Stack
 
 - **Frontend:** React, TypeScript, Vite
 - **Backend:** Django, Django REST Framework
@@ -46,7 +46,7 @@ The main goal of this project was to build a clean and scalable dashboard archit
 
 ---
 
-## Getting Started
+## 🚀 Getting Started
 
 ### Backend Setup (Django)
 

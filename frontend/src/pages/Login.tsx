@@ -24,8 +24,8 @@ const Login = () => {
     return (
         <div className="login-container">
             <div className="login-form">
-                <h2 style={{ marginBottom: '20px', textAlign: 'center' }}>Login</h2>
-                {error && <p style={{ color: 'red', marginBottom: '10px' }}>{error}</p>}
+                <h2>Login</h2>
+                {error && <p className="error-message">{error}</p>}
                 <form onSubmit={handleSubmit}>
                     <div className="form-group">
                         <label>Email / Username</label>
